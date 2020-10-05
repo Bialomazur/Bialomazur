@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Kamil 👋
+
+I've started coding in the year of 2017 
 
 <!--
 **Bialomazur/Bialomazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
