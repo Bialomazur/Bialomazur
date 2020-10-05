@@ -1,8 +1,8 @@
 ### Hi, I'm Kamil 👋
 
-- ⚡ Backend-Dev ⚡
-- 💬 Tutor 💬
-- 📫 Freelancer 📫
+⚡ Backend-Dev ⚡
+💬 Tutor 💬
+📫 Freelancer 📫
 
 <!--
 **Bialomazur/Bialomazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
