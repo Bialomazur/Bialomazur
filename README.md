@@ -1,6 +1,6 @@
 ### Hi, I'm Kamil 👋
 
-⚡ Programmer ⚡  
+⚡ Developer ⚡  
 💬 Tutor 💬  
 📫 Freelancer 📫  
 
