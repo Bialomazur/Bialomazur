@@ -4,7 +4,7 @@
 💬 Tutor 💬  
 📫 Freelancer 📫  
 
-🤔 Looking for someone to collaborate with (preferably from EU-Zone / Northern America)
+🤔 Looking for someone to collaborate with (preferably from EU / NA)
 
 <!--
 **Bialomazur/Bialomazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
