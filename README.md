@@ -6,7 +6,7 @@ Hi there, I'm Kamil
 - :computer: I'm currently freelancing as a Fullstack Developer
 - :school: I'm currently learning : React, Graph Databases and Data Science 
 
-## Languages
+## Primary Languages
 
 ![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![java](https://img.shields.io/badge/java-★★★-lightgrey?labelColor=3776AB&logo=Java&style=for-the-badge&logoColor=white)
