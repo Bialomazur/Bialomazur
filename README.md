@@ -5,8 +5,6 @@ Hi there, I'm Kamil.
 
 - :computer: I'm currently freelancing as a Fullstack Developer
 - :school: I'm currently learning : React, Graph Databases and Data Science 
-- :) Fun fact : Most Disney characters wear gloves to keep animation simple
-
 
 ## Languages
 
