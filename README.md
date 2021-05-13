@@ -1,7 +1,7 @@
 
 ## Brief Info
 
-Hi there, I'm Kamil.
+Hi there, I'm Kamil
 
 - :computer: I'm currently freelancing as a Fullstack Developer
 - :school: I'm currently learning : React, Graph Databases and Data Science 
