@@ -3,8 +3,8 @@
 
 Hi there, I'm Kamil
 
-- :computer: I'm currently freelancing as a Fullstack Developer
-- :school: I'm currently learning : React, Graph Databases and Data Science 
+- :computer: Freelance Fullstack Developer
+- :school: Currently learning : React, Graph Databases and Data Science 
 
 ## Primary Languages
 
