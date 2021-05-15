@@ -4,7 +4,7 @@
 Hi there, I'm Kamil
 
 - :computer: Freelance Fullstack Developer
-- :school: Currently learning : React, Graph Databases and Data Science 
+- :school: Currently learning : Data Science, Algorithms & Datastructures 
 
 ## Primary Languages
 
