@@ -10,8 +10,8 @@ Hi there, I'm Kamil
 
 ![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)
 ![java](https://img.shields.io/badge/java-★★★-lightgrey?labelColor=3776AB&logo=Java&style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostGreSQL-★☆☆-lightgrey?labelColor=3776AB&logo=PostGreSQL&style=for-the-badge&logoColor=black)
-![javascript](https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostGreSQL-★★☆-lightgrey?labelColor=3776AB&logo=PostGreSQL&style=for-the-badge&logoColor=black)
+![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 
 ## OS & Tools
 
