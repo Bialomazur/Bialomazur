@@ -4,7 +4,6 @@
 Hi there, I'm Kamil
 
 - :computer: Fullstack Developer
-- :school: Currently learning : Data Science, Algorithms & Datastructures 
 
 ## Primary Languages
 
