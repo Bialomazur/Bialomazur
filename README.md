@@ -1,9 +1,7 @@
 
 ## Brief Info
 
-Hi there, I'm Kamil
-
-- :computer: Fullstack Developer
+Fullstack Developer
 
 ## Primary Languages
 
